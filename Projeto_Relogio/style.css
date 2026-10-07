@@ -1,0 +1,12 @@
+.display {
+    background-color: #2C2E43;
+    padding: 0 20px; 
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 6rem;
+    border: 10px solid #FFD523;
+}
